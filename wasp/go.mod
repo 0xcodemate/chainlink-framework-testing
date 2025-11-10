@@ -13,7 +13,7 @@ require (
 	github.com/grafana/dskit v0.0.0-20250317084829-9cdd36a91f10
 	github.com/grafana/grafana-foundation-sdk/go v0.0.0-20240326122733-6f96a993222b
 	// post v3.4.2 version compatible with prometheus
-	github.com/grafana/loki/v3 v3.5.5
+	github.com/grafana/loki/v3 v3.5.8
 	github.com/grafana/pyroscope-go v1.2.7
 	github.com/montanaflynn/stats v0.7.1
 	github.com/olekukonko/tablewriter v1.1.0
@@ -236,7 +236,7 @@ require (
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/sony/gobreaker/v2 v2.1.0 // indirect
 	github.com/spf13/cast v1.7.1 // indirect
-	github.com/spf13/cobra v1.9.1 // indirect
+	github.com/spf13/cobra v1.10.1 // indirect
 	github.com/spf13/pflag v1.0.10 // indirect
 	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/testcontainers/testcontainers-go v0.37.0 // indirect
