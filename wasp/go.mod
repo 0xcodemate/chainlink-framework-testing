@@ -8,7 +8,7 @@ require (
 	github.com/K-Phoen/grabana v0.22.2
 	github.com/coder/websocket v1.8.14
 	github.com/gin-gonic/gin v1.11.0
-	github.com/go-resty/resty/v2 v2.16.5
+	github.com/go-resty/resty/v2 v2.17.0
 	github.com/google/uuid v1.6.0
 	github.com/grafana/dskit v0.0.0-20250317084829-9cdd36a91f10
 	github.com/grafana/grafana-foundation-sdk/go v0.0.0-20240326122733-6f96a993222b
@@ -236,7 +236,7 @@ require (
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/sony/gobreaker/v2 v2.1.0 // indirect
 	github.com/spf13/cast v1.7.1 // indirect
-	github.com/spf13/cobra v1.9.1 // indirect
+	github.com/spf13/cobra v1.10.1 // indirect
 	github.com/spf13/pflag v1.0.10 // indirect
 	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/testcontainers/testcontainers-go v0.37.0 // indirect
@@ -281,7 +281,7 @@ require (
 	golang.org/x/sys v0.36.0 // indirect
 	golang.org/x/term v0.35.0 // indirect
 	golang.org/x/text v0.29.0 // indirect
-	golang.org/x/time v0.11.0 // indirect
+	golang.org/x/time v0.12.0 // indirect
 	golang.org/x/tools v0.36.0 // indirect
 	gomodules.xyz/jsonpatch/v2 v2.4.0 // indirect
 	google.golang.org/api v0.228.0 // indirect
