@@ -41,7 +41,7 @@ require (
 	go.uber.org/atomic v1.11.0
 	go.uber.org/zap v1.27.0
 	golang.org/x/net v0.47.0
-	golang.org/x/oauth2 v0.30.0
+	golang.org/x/oauth2 v0.32.0
 	golang.org/x/sync v0.18.0
 	golang.org/x/text v0.31.0
 	k8s.io/api v0.35.0
@@ -71,6 +71,7 @@ require (
 	github.com/getsentry/sentry-go v0.27.0 // indirect
 	github.com/go-chi/chi v1.5.5 // indirect
 	github.com/golang-jwt/jwt/v4 v4.5.2 // indirect
+	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 // indirect
 	github.com/hashicorp/go-bexpr v0.1.10 // indirect
 	github.com/holiman/billy v0.0.0-20250707135307-f2f9b9aae7db // indirect
 	github.com/huin/goupnp v1.3.0 // indirect
@@ -92,7 +93,7 @@ require (
 	github.com/shirou/gopsutil/v4 v4.25.6 // indirect
 	github.com/urfave/cli/v2 v2.27.5 // indirect
 	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1 // indirect
-	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
+	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
 	go.yaml.in/yaml/v2 v2.4.3 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1 // indirect
@@ -214,9 +215,9 @@ require (
 	github.com/xlab/treeprint v1.2.0 // indirect
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.58.0 // indirect
-	go.opentelemetry.io/otel v1.37.0 // indirect
-	go.opentelemetry.io/otel/metric v1.37.0 // indirect
-	go.opentelemetry.io/otel/trace v1.37.0 // indirect
+	go.opentelemetry.io/otel v1.38.0 // indirect
+	go.opentelemetry.io/otel/metric v1.38.0 // indirect
+	go.opentelemetry.io/otel/trace v1.38.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/ratelimit v0.3.1 // indirect
 	golang.org/x/crypto v0.44.0 // indirect
@@ -225,10 +226,10 @@ require (
 	golang.org/x/term v0.37.0 // indirect
 	golang.org/x/time v0.9.0 // indirect
 	gomodules.xyz/jsonpatch/v2 v2.4.0 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250804133106-a7a43d27e69b // indirect
-	google.golang.org/grpc v1.76.0
-	google.golang.org/protobuf v1.36.8 // indirect
-	gopkg.in/evanphx/json-patch.v4 v4.12.0 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20251029180050-ab9386a59fda // indirect
+	google.golang.org/grpc v1.78.0
+	google.golang.org/protobuf v1.36.10 // indirect
+	gopkg.in/evanphx/json-patch.v4 v4.13.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	k8s.io/apiextensions-apiserver v0.31.0 // indirect
