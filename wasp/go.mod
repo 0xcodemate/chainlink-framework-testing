@@ -24,9 +24,9 @@ require (
 	github.com/stretchr/testify v1.11.1
 	go.uber.org/ratelimit v0.3.1
 	google.golang.org/grpc v1.76.0 // indirect
-	k8s.io/api v0.34.2
-	k8s.io/apimachinery v0.34.2
-	k8s.io/client-go v0.34.1
+	k8s.io/api v0.35.1
+	k8s.io/apimachinery v0.35.1
+	k8s.io/client-go v0.35.1
 )
 
 require (
@@ -238,7 +238,7 @@ require (
 	github.com/spf13/cobra v1.10.1 // indirect
 	github.com/spf13/pflag v1.0.10 // indirect
 	github.com/stretchr/objx v0.5.2 // indirect
-	github.com/testcontainers/testcontainers-go v0.37.0 // indirect
+	github.com/testcontainers/testcontainers-go v0.40.0 // indirect
 	github.com/tklauser/go-sysconf v0.3.13 // indirect
 	github.com/tklauser/numcpus v0.7.0 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
@@ -313,7 +313,7 @@ require (
 	github.com/clipperhouse/uax29/v2 v2.3.0 // indirect
 	github.com/containerd/errdefs v1.0.0 // indirect
 	github.com/containerd/errdefs/pkg v0.3.0 // indirect
-	github.com/ebitengine/purego v0.8.2 // indirect
+	github.com/ebitengine/purego v0.8.4 // indirect
 	github.com/goccy/go-yaml v1.18.0 // indirect
 	github.com/hashicorp/go-metrics v0.5.4 // indirect
 	github.com/moby/go-archive v0.1.0 // indirect
@@ -322,7 +322,7 @@ require (
 	github.com/olekukonko/ll v0.1.3 // indirect
 	github.com/quic-go/qpack v0.5.1 // indirect
 	github.com/quic-go/quic-go v0.54.0 // indirect
-	github.com/shirou/gopsutil/v4 v4.25.2 // indirect
+	github.com/shirou/gopsutil/v4 v4.25.6 // indirect
 	github.com/tjhop/slog-gokit v0.1.4 // indirect
 	go.uber.org/mock v0.5.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.3 // indirect
