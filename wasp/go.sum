@@ -389,8 +389,8 @@ github.com/grafana/dskit v0.0.0-20250917065751-798f5a8fa154 h1:ojrJ/ctyUGsZ/gem0
 github.com/grafana/dskit v0.0.0-20250917065751-798f5a8fa154/go.mod h1:VahT+GtfQIM+o8ht2StR6J9g+Ef+C2Vokh5uuSmOD/4=
 github.com/grafana/gomemcache v0.0.0-20250828162811-a96f6acee2fe h1:q+QaVANzNZxvTovycpQvDTfsNZ2rHh4XIIaccMnrIR4=
 github.com/grafana/gomemcache v0.0.0-20250828162811-a96f6acee2fe/go.mod h1:j/s0jkda4UXTemDs7Pgw/vMT06alWc42CHisvYac0qw=
-github.com/grafana/grafana-foundation-sdk/go v0.0.0-20240326122733-6f96a993222b h1:Msqs1nc2qWMxTriDCITKl58Td+7Md/RURmUmH7RXKns=
-github.com/grafana/grafana-foundation-sdk/go v0.0.0-20240326122733-6f96a993222b/go.mod h1:WtWosval1KCZP9BGa42b8aVoJmVXSg0EvQXi9LDSVZQ=
+github.com/grafana/grafana-foundation-sdk/go v0.0.12 h1:ggGWIJ3ylX16/xtAYlVi1TtUdv+mybYPusOmi1x35kg=
+github.com/grafana/grafana-foundation-sdk/go v0.0.12/go.mod h1:48EA8jF85SrReYflLa39Sk34b6NpxwJPBwjF3TJgRpE=
 github.com/grafana/jsonparser v0.0.0-20241004153430-023329977675 h1:U94jQ2TQr1m3HNyE8efSdyaBbDrdPaWImXyenuKZ/nw=
 github.com/grafana/jsonparser v0.0.0-20241004153430-023329977675/go.mod h1:796sq+UcONnSlzA3RtlBZ+b/hrerkZXiEmO8oMjyRwY=
 github.com/grafana/loki/pkg/push v0.0.0-20250630054201-94c0ba7b0952 h1:rLzoJGDnoXsZV2j/2atL6OVk9AHluTbDOD8Ls9trtIA=
