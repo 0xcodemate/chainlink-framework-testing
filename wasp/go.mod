@@ -11,7 +11,7 @@ require (
 	github.com/go-resty/resty/v2 v2.17.2
 	github.com/google/uuid v1.6.0
 	github.com/grafana/dskit v0.0.0-20250917065751-798f5a8fa154
-	github.com/grafana/grafana-foundation-sdk/go v0.0.0-20240326122733-6f96a993222b
+	github.com/grafana/grafana-foundation-sdk/go v0.0.12
 	// post v3.4.2 version compatible with prometheus
 	github.com/grafana/loki/v3 v3.6.7
 	github.com/grafana/pyroscope-go v1.2.7
