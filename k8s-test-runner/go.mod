@@ -16,11 +16,10 @@ require (
 	golang.org/x/net v0.52.0
 	k8s.io/api v0.35.3
 	k8s.io/apimachinery v0.35.3
-	k8s.io/client-go v0.34.1
+	k8s.io/client-go v0.35.3
 )
 
 require (
-	github.com/Masterminds/semver/v3 v3.4.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.3 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
 	gopkg.in/evanphx/json-patch.v4 v4.13.0 // indirect
