@@ -44,10 +44,10 @@ require (
 	golang.org/x/oauth2 v0.32.0
 	golang.org/x/sync v0.20.0
 	golang.org/x/text v0.35.0
-	k8s.io/api v0.35.2
-	k8s.io/apimachinery v0.35.2
+	k8s.io/api v0.35.3
+	k8s.io/apimachinery v0.35.3
 	k8s.io/cli-runtime v0.35.2
-	k8s.io/client-go v0.35.2
+	k8s.io/client-go v0.35.3
 	k8s.io/kubectl v0.31.2
 )
 
