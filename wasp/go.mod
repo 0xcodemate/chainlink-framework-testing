@@ -26,7 +26,7 @@ require (
 	google.golang.org/grpc v1.77.0 // indirect
 	k8s.io/api v0.35.3
 	k8s.io/apimachinery v0.35.3
-	k8s.io/client-go v0.35.2
+	k8s.io/client-go v0.35.3
 )
 
 require (
@@ -62,7 +62,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sso v1.30.13 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.35.17 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sts v1.41.9 // indirect
-	github.com/aws/constructs-go/constructs/v10 v10.4.2 // indirect
+	github.com/aws/constructs-go/constructs/v10 v10.5.1 // indirect
 	github.com/aws/jsii-runtime-go v1.127.0 // indirect
 	github.com/aws/smithy-go v1.24.2 // indirect
 	github.com/bboreham/go-loser v0.0.0-20230920113527-fcc2c21820a3 // indirect
@@ -286,11 +286,11 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	k8s.io/apiextensions-apiserver v0.31.0 // indirect
-	k8s.io/cli-runtime v0.35.2 // indirect
-	k8s.io/component-base v0.34.1 // indirect
+	k8s.io/cli-runtime v0.35.3 // indirect
+	k8s.io/component-base v0.35.3 // indirect
 	k8s.io/klog/v2 v2.130.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20250910181357-589584f1c912 // indirect
-	k8s.io/kubectl v0.31.2 // indirect
+	k8s.io/kubectl v0.35.3 // indirect
 	k8s.io/utils v0.0.0-20251002143259-bc988d571ff4 // indirect
 	sigs.k8s.io/controller-runtime v0.19.0 // indirect
 	sigs.k8s.io/json v0.0.0-20250730193827-2d320260d730 // indirect
@@ -363,6 +363,7 @@ require (
 	go.opentelemetry.io/proto/otlp v1.6.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.3 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
+	k8s.io/component-helpers v0.35.3 // indirect
 	sigs.k8s.io/randfill v1.0.0 // indirect
 	sigs.k8s.io/structured-merge-diff/v6 v6.3.0 // indirect
 )
