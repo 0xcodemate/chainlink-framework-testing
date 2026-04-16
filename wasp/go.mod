@@ -25,7 +25,7 @@ require (
 	go.uber.org/ratelimit v0.3.1
 	google.golang.org/grpc v1.77.0 // indirect
 	k8s.io/api v0.35.2
-	k8s.io/apimachinery v0.35.2
+	k8s.io/apimachinery v0.35.3
 	k8s.io/client-go v0.35.2
 )
 
