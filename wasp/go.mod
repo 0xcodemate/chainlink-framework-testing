@@ -15,7 +15,7 @@ require (
 	// post v3.4.2 version compatible with prometheus
 	github.com/grafana/loki/v3 v3.6.7
 	github.com/grafana/pyroscope-go v1.2.7
-	github.com/montanaflynn/stats v0.7.1
+	github.com/montanaflynn/stats v0.9.0
 	github.com/olekukonko/tablewriter v1.1.4
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/common v0.67.5
