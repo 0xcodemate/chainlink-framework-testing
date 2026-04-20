@@ -15,7 +15,7 @@ require (
 	github.com/spf13/cobra v1.10.2
 	golang.org/x/net v0.52.0
 	k8s.io/api v0.35.3
-	k8s.io/apimachinery v0.35.3
+	k8s.io/apimachinery v0.35.4
 	k8s.io/client-go v0.34.1
 )
 
