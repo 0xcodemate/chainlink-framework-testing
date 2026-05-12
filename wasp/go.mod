@@ -13,7 +13,7 @@ require (
 	github.com/grafana/dskit v0.0.0-20260209132809-8d1c6d34bb5a
 	github.com/grafana/grafana-foundation-sdk/go v0.0.12
 	// post v3.4.2 version compatible with prometheus
-	github.com/grafana/loki/v3 v3.6.7
+	github.com/grafana/loki/v3 v3.7.1
 	github.com/grafana/pyroscope-go v1.2.7
 	github.com/montanaflynn/stats v0.9.0
 	github.com/olekukonko/tablewriter v1.1.4
