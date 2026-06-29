@@ -6,7 +6,7 @@ require (
 	github.com/avast/retry-go v3.0.0+incompatible
 	github.com/awalterschulze/gographviz v2.0.3+incompatible
 	github.com/barkimedes/go-deepcopy v0.0.0-20220514131651-17c30cfc62df
-	github.com/ethereum/go-ethereum v1.17.3
+	github.com/ethereum/go-ethereum v1.17.4
 	github.com/holiman/uint256 v1.3.2
 	github.com/montanaflynn/stats v0.9.0
 	github.com/pelletier/go-toml/v2 v2.3.1
@@ -47,6 +47,7 @@ require (
 	github.com/ethereum/c-kzg-4844/v2 v2.1.6 // indirect
 	github.com/ethereum/go-bigmodexpfix v0.0.0-20250911101455-f9e208c548ab // indirect
 	github.com/ferranbt/fastssz v0.1.4 // indirect
+	github.com/fjl/jsonw v0.1.0 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/getsentry/sentry-go v0.27.0 // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
@@ -74,11 +75,10 @@ require (
 	github.com/minio/sha256-simd v1.0.0 // indirect
 	github.com/mitchellh/mapstructure v1.4.1 // indirect
 	github.com/mitchellh/pointerstructure v1.2.0 // indirect
-	github.com/pion/dtls/v2 v2.2.7 // indirect
-	github.com/pion/logging v0.2.2 // indirect
-	github.com/pion/stun/v2 v2.0.0 // indirect
-	github.com/pion/transport/v2 v2.2.1 // indirect
-	github.com/pion/transport/v3 v3.0.1 // indirect
+	github.com/pion/dtls/v3 v3.1.2 // indirect
+	github.com/pion/logging v0.2.4 // indirect
+	github.com/pion/stun/v3 v3.1.2 // indirect
+	github.com/pion/transport/v4 v4.0.1 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/prometheus/client_golang v1.20.4 // indirect
 	github.com/prometheus/client_model v0.6.1 // indirect
@@ -92,16 +92,17 @@ require (
 	github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7 // indirect
 	github.com/tklauser/go-sysconf v0.3.12 // indirect
 	github.com/tklauser/numcpus v0.6.1 // indirect
+	github.com/wlynxg/anet v0.0.5 // indirect
 	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1 // indirect
 	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
-	go.opentelemetry.io/otel v1.40.0 // indirect
-	go.opentelemetry.io/otel/metric v1.40.0 // indirect
-	go.opentelemetry.io/otel/trace v1.40.0 // indirect
-	golang.org/x/crypto v0.47.0 // indirect
+	go.opentelemetry.io/otel v1.41.0 // indirect
+	go.opentelemetry.io/otel/metric v1.41.0 // indirect
+	go.opentelemetry.io/otel/trace v1.41.0 // indirect
+	golang.org/x/crypto v0.48.0 // indirect
 	golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa // indirect
-	golang.org/x/sys v0.40.0 // indirect
-	golang.org/x/text v0.33.0 // indirect
-	golang.org/x/time v0.9.0 // indirect
+	golang.org/x/sys v0.41.0 // indirect
+	golang.org/x/text v0.34.0 // indirect
+	golang.org/x/time v0.10.0 // indirect
 	google.golang.org/protobuf v1.36.11 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
